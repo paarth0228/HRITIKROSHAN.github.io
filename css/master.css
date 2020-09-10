@@ -117,12 +117,12 @@
   background-color: black;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 27px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 8px 4px;
   cursor: pointer;
   border-radius: 25px;
 }
