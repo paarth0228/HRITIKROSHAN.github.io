@@ -8,7 +8,7 @@
   }
 
   a:hover {
-    color:black;/* set the text color to rhere */
+    color:red;/* set the text color to rhere */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
